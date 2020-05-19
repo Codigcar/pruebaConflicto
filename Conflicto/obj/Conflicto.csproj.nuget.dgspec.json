@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Conflicto\\Conflicto\\Conflicto.csproj": {}
+    "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\pruebaConflicto\\Conflicto\\Conflicto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Conflicto\\Conflicto\\Conflicto.csproj": {
+    "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\pruebaConflicto\\Conflicto\\Conflicto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Conflicto\\Conflicto\\Conflicto.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
         "projectName": "Conflicto",
-        "projectPath": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Conflicto\\Conflicto\\Conflicto.csproj",
+        "projectPath": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\Conflicto\\Conflicto\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\Desktop\\pruebaConflicto\\pruebaConflicto\\Conflicto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
