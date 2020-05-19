@@ -8,5 +8,6 @@ namespace Conflicto.models
     public class customer
     {
         public int Id { get; set; }
+        public int Name { get; set; }
     }
 }
