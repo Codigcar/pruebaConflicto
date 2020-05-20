@@ -13,5 +13,6 @@ namespace Conflicto.models
         public string payment { get; set; }
         public int edad { get; set; }
         public int age { get; set; }
+        public asd MyProperty { get; set; }
     }
 }
