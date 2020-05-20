@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto\\Conflicto\\Conflicto.csproj": {}
+    "C:\\Users\\joaqu\\OneDrive\\Documentos\\prueba 2\\pruebaConflicto\\Conflicto\\Conflicto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto\\Conflicto\\Conflicto.csproj": {
+    "C:\\Users\\joaqu\\OneDrive\\Documentos\\prueba 2\\pruebaConflicto\\Conflicto\\Conflicto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
+        "projectUniqueName": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prueba 2\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
         "projectName": "Conflicto",
-        "projectPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
+        "projectPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prueba 2\\pruebaConflicto\\Conflicto\\Conflicto.csproj",
         "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prubieta\\pruebaConflicto\\Conflicto\\obj\\",
+        "outputPath": "C:\\Users\\joaqu\\OneDrive\\Documentos\\prueba 2\\pruebaConflicto\\Conflicto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
