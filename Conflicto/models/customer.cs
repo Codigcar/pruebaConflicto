@@ -11,5 +11,6 @@ namespace Conflicto.models
         public int Name { get; set; }
         public int lastName { get; set; }
         public string payment { get; set; }
+        public int edad { get; set; }
     }
 }
