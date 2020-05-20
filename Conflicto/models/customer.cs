@@ -10,5 +10,6 @@ namespace Conflicto.models
         public int Id { get; set; }
         public int Name { get; set; }
         public int lastName { get; set; }
+        public string creditCard { get; set; }
     }
 }
